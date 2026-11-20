@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="dshVoiceBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb3a7"/>
+      <stop offset="0.55" stop-color="#ef8b7d"/>
+      <stop offset="1" stop-color="#d9686a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#dshVoiceBg)"/>
+  <path d="M32 12a7 7 0 0 1 7 7v12a7 7 0 0 1-14 0V19a7 7 0 0 1 7-7Z" fill="#fffaf8"/>
+  <path d="M19 30a13 13 0 0 0 26 0" fill="none" stroke="#fffaf8" stroke-width="4.2" stroke-linecap="round"/>
+  <path d="M32 43v7" stroke="#fffaf8" stroke-width="4.2" stroke-linecap="round"/>
+  <path d="M24 50h16" stroke="#fffaf8" stroke-width="4.2" stroke-linecap="round"/>
+  <path d="M9 26v12M55 26v12" stroke="#fffaf8" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+  <path d="M14 22v20M50 22v20" stroke="#fffaf8" stroke-width="2.4" stroke-linecap="round" opacity="0.3"/>
+</svg>
